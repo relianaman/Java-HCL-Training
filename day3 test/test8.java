@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class test5 {
+public class test8 {
     public static void main(String[] args) {
         int balance = 10000;
         int deposite, withdraw;
@@ -19,7 +19,7 @@ public class test5 {
                         System.out.println("Your current balance is : " + balance);
                         System.out.println();
                     }
-                        
+                    
                     case 2 -> {
                         System.out.print("Enter the deposite amount : ");
                         deposite = sc.nextInt();
@@ -33,7 +33,7 @@ public class test5 {
                             System.out.println();
                         }
                     }
-                        
+                    
                     case 3 -> {
                         System.out.print("Enter the withdraw amount : ");
                         withdraw = sc.nextInt();
@@ -47,12 +47,12 @@ public class test5 {
                             System.out.println();
                         }
                     }
-                        
+                    
                     case 4 -> {
                         System.out.println("Thanks for visiting SBI");
                         System.out.println();
                     }
-                        
+                    
                     default -> {
                         System.out.println("Invalid choice. Please try again.");
                         System.out.println();
@@ -62,3 +62,4 @@ public class test5 {
         }
     }
 }
+
