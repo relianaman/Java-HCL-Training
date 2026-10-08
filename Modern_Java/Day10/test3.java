@@ -1,3 +1,5 @@
+package Day10;
+
 @FunctionalInterface 
 interface myAdd {
     public void add(int a, int b);

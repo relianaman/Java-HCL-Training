@@ -1,3 +1,5 @@
+package Day05;
+
 class Animal {
     Animal() {
         System.out.println("Animal");

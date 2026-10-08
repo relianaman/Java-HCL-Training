@@ -1,3 +1,5 @@
+package Day04;
+
 public class test2 {
     int rollno;
     String name;

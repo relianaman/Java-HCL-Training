@@ -1,3 +1,5 @@
+package Day11;
+
 
 import java.util.*;
 import java.util.stream.Collectors;

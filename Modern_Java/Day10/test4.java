@@ -1,3 +1,5 @@
+package Day10;
+
 interface myCompare {
     public void com(int a, int b);
 }

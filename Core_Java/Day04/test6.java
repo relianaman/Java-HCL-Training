@@ -1,3 +1,5 @@
+package Day04;
+
 //current class instance as a paraemter to the constructor
 
 public class test6 {

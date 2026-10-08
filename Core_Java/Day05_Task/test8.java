@@ -1,3 +1,5 @@
+package Day05_Task;
+
 class cal {
     
     cal(int a, int b) {

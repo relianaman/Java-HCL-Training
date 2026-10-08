@@ -1,3 +1,5 @@
+package Day10_Task;
+
 
 import java.util.function.Function;
 

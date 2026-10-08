@@ -1,3 +1,5 @@
+package Day06_Task;
+
 public class test14 {
 
     void ageCheck(int age) throws Exception {

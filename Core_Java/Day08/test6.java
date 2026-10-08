@@ -1,3 +1,5 @@
+package Day08;
+
 // public class test6 {
 //     static <T extends Comparable<T>> T maximum(T element1, T element2) {
 //         if(element1.compareTo(element2) > 0) {

@@ -1,3 +1,5 @@
+package Day10;
+
 interface nameHCL {
     public void name(String name);
 }

@@ -1,3 +1,5 @@
+package Day08;
+
 // class Test<T, U> {
 //     T value1;
 //     U value2;

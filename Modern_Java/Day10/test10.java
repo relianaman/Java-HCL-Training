@@ -1,3 +1,5 @@
+package Day10;
+
 public class test10 {
     public static void main(String[] args) {
         Calculator c = new Addition();

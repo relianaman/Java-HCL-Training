@@ -1,3 +1,5 @@
+package Day04;
+
 class person {
     private String name; //private
 

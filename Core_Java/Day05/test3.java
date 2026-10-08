@@ -1,3 +1,5 @@
+package Day05;
+
 // class Animal {
 //     void eat() {
 //         System.out.println("Animal is eating");

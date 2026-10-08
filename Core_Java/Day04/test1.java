@@ -1,3 +1,5 @@
+package Day04;
+
 public class test1 {
     String name = "Hello";
 

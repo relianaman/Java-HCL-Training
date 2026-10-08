@@ -1,3 +1,5 @@
+package Day02_OOPs;
+
 public class test6 {
     public static void main(String[] args) {
         int a = 200;

@@ -1,3 +1,5 @@
+package Day05;
+
 interface Animal {
     public void sound();
     public void eat();

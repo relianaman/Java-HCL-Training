@@ -1,3 +1,5 @@
+package Day06;
+
 public class test7 {
     public static void main(String[] args) {
         try {

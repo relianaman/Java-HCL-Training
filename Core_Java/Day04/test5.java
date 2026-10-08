@@ -1,3 +1,5 @@
+package Day04;
+
 //it is used to pass the current class instance as a parameter to the method
 public class test5 {
 

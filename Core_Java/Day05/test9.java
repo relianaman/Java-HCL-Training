@@ -1,3 +1,5 @@
+package Day05;
+
 // class Vehicle {
 //     void engine() {
 //         System.out.println("This is master class engine");

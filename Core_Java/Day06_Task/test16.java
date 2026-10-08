@@ -1,3 +1,5 @@
+package Day06_Task;
+
 class InvalidAgeException extends Exception {
 
     InvalidAgeException(String message) {

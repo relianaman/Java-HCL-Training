@@ -1,3 +1,5 @@
+package Day09;
+
 public class test3 {
     public static void main(String[] args) {
         Person person1 = new Person("Alice");

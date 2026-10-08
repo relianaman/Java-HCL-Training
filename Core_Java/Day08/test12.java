@@ -1,3 +1,5 @@
+package Day08;
+
 interface Printable {
     void print();
 }

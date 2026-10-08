@@ -1,3 +1,5 @@
+package Day05_Task;
+
 // class Animal {
 //     Animal() {
 //         System.out.println("Animal");

@@ -1,3 +1,5 @@
+package Day04;
+
 //this with current class constructor
 public class test4 {
 

@@ -1,3 +1,5 @@
+package Day07_Task;
+
 
 import java.util.*;
 

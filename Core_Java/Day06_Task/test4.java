@@ -1,3 +1,5 @@
+package Day06_Task;
+
 public class test4 {
     public static void main(String[] args) {
         try {

@@ -1,3 +1,5 @@
+package Day03;
+
 public class test5 {
     public void get(String name1) {
         System.out.println(name1 +" is dancing");

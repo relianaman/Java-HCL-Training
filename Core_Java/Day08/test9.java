@@ -1,3 +1,5 @@
+package Day08;
+
 // public class test9 {
 //     public static <T> void display(T value) {
 //         System.out.println(value);

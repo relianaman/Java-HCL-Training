@@ -1,3 +1,5 @@
+package Day01_Basic;
+
 import java.util.*;
 
 public class Hello {

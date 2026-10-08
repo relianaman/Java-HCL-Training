@@ -1,3 +1,5 @@
+package Day06;
+
 public class test5 {
     @SuppressWarnings("null")
     public static void main(String[] args) {

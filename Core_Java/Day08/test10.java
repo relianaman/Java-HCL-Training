@@ -1,3 +1,5 @@
+package Day08;
+
 // public class test10 {
 //     public static <T extends Number> double mutliply(T value) {
 //         double n = value.doubleValue();

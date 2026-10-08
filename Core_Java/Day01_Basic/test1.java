@@ -1,3 +1,5 @@
+package Day01_Basic;
+
 public class test1 {
     public static void main(String[] args) {
         //data types

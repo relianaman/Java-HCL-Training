@@ -1,3 +1,5 @@
+package Day03_Task;
+
 public class test17 {
     int age;
     String name;

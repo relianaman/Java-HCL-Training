@@ -1,3 +1,5 @@
+package Day04_Task;
+
 public class test7 {
     void m1() {
         this.m2();

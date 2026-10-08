@@ -1,3 +1,5 @@
+package Day02_OOPs;
+
 public class test1 {
     public static void main(String[] args) {
         int number = 10;

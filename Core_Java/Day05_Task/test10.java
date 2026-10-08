@@ -1,3 +1,5 @@
+package Day05_Task;
+
 class animal {
     void sound() {
         System.out.println("Sound of animal");

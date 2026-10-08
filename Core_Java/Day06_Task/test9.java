@@ -1,3 +1,5 @@
+package Day06_Task;
+
 public class test9 {
     public static void main(String[] args) {
         int age = 15;

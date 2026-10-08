@@ -1,3 +1,5 @@
+package Day02_Task;
+
 import java.util.Scanner;
 
 public class test8 {

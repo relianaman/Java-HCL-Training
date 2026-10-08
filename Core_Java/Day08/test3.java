@@ -1,3 +1,5 @@
+package Day08;
+
 // //Generic class with <>
 // class Test<T> {
 //     T value; //Generic class as variable

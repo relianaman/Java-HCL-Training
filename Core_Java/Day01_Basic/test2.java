@@ -1,3 +1,5 @@
+package Day01_Basic;
+
 public class test2 {
     void get() {
         System.out.println("Hello");

@@ -1,3 +1,5 @@
+package Day05;
+
 import java.util.Scanner;
 
 abstract class TV {

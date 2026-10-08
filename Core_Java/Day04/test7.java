@@ -1,3 +1,5 @@
+package Day04;
+
 class animal { //parent class    
     void display() {
         System.out.println("I am super class");

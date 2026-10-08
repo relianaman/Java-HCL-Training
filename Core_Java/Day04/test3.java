@@ -1,3 +1,5 @@
+package Day04;
+
 //This keyword for current class method
 
 public class test3 {

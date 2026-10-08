@@ -1,3 +1,5 @@
+package Day04_Task;
+
 public class test6 {
     String name;
 

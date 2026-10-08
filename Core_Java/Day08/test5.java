@@ -1,3 +1,5 @@
+package Day08;
+
 // public class test5 {
 
 //     static <T> void genericDisplay(T value) {

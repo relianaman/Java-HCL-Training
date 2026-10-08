@@ -1,3 +1,5 @@
+package Day06_Task;
+
 
 import java.util.Scanner;
 

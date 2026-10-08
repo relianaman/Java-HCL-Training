@@ -1,3 +1,5 @@
+package Day10;
+
 interface Greeting {
     public void hello();
 }

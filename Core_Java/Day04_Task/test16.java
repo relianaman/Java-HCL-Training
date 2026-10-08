@@ -1,3 +1,5 @@
+package Day04_Task;
+
 class person {
     int age;
 }

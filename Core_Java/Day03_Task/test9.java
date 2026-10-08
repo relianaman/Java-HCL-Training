@@ -1,3 +1,5 @@
+package Day03_Task;
+
 public class test9 {
     String company;
     int model;

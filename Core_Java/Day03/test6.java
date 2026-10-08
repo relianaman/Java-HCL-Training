@@ -1,3 +1,5 @@
+package Day03;
+
 public class test6 {
     String name;
     int age;

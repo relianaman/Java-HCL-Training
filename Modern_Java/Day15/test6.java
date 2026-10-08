@@ -1,3 +1,4 @@
+package Day15;
 
 import java.util.Scanner;
 import java.util.concurrent.Callable;
@@ -10,17 +11,15 @@ public class test6 {
 
         int salary;
         try (Scanner sc = new Scanner(System.in)) {
-            for(int i=1; i<=12; i++) {
-                // salary = 0;
-                System.out.print("Enter salary of month " + i + " : ");
-                salary = sc.nextInt();
-            }
+            System.out.print("Enter salary of month: ");
+            salary = sc.nextInt();
         }
+        
         ExecutorService executor = Executors.newFixedThreadPool(1);
 
         Callable<Integer> task1 = () -> {
             Thread.sleep(5000);
-            return 12;
+            return 12*salary;
         };
 
         Future<Integer> f1 = executor.submit(task1);

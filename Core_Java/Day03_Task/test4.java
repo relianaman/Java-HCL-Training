@@ -1,3 +1,5 @@
+package Day03_Task;
+
 public class test4 {
     String employee_name;
     int salary;

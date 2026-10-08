@@ -1,3 +1,5 @@
+package Day06;
+
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

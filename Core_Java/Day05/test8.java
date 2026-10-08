@@ -1,3 +1,5 @@
+package Day05;
+
 // interface landVehicle {
 //     default void landInfo() {
 //         System.out.println("It's a car");

@@ -1,3 +1,5 @@
+package Day02_OOPs;
+
 public class test11 {
     public static void main(String[] args) {
         String fruits[] = {"Apple", "Banana", "Cherry"};

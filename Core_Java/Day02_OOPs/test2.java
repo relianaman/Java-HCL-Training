@@ -1,3 +1,5 @@
+package Day02_OOPs;
+
 import java.util.Scanner;
 
 public class test2 {
